@@ -1,10 +1,9 @@
 # Programming-Assignment-3-ADT
 
-## Assignment-3-ADT: Programming Assignment 3 in ADT & Solving Problem Course
 
 ### Description
 
-This program converts an infix mathematical expression into its equivalent postfix notation using the **Shunting Yard Algorithm**. It reads the infix expression from a file (`input1.txt`), processes it, and outputs both the original infix expression and the converted postfix expression.
+This program converts an infix mathematical expression into its equivalent postfix notation using a **stack-based approach**. It reads the infix expression from a file (`input1.txt`), processes each character, and correctly applies operator precedence and associativity rules to generate the corresponding postfix expression. The program ensures proper handling of parentheses and detects any invalid expressions.
 
 ### Installation
 

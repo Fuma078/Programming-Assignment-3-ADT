@@ -1,5 +1,6 @@
 # Programming-Assignment-3-ADT
 
+Assignment-3-ADT: Programming Assignment 3 in ADT & Solving Problem course that processes an input file to convert an infix mathematical expression into its equivalent postfix notation using a stack-based approach, ensuring correct operator precedence and handling parentheses.
 
 ### Description
 
